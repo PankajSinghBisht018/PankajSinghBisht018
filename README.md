@@ -53,8 +53,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/PankajSinghBisht018/PankajSinghBisht018/output/snake.svg" alt="Snake animation" />
 
 ###
