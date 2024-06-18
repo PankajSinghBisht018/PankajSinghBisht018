@@ -9,28 +9,32 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 
 # 💻 Tech Stack:
 
-## Preferred Technologies (MERN Stack)
+## Frontend
 
-<div style="display: flex; flex-wrap: wrap;">
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-</div>
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) React
+- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) Redux
+- ![Material-UI](https://img.shields.io/badge/material_ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) Material-UI
+- ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) Tailwind CSS
+
+## Backend
+
+- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) Node.js
+- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) Express.js
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) MongoDB
 
 ## Additional Technologies
 
-<div style="display: flex; flex-wrap: wrap;">
-    ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-    ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=%23F7DF1E)
-    ![Yup](https://img.shields.io/badge/Yup-%23000000.svg?style=for-the-badge&logo=yup&logoColor=%23F7DF1E)
-    ![Formik](https://img.shields.io/badge/Formik-%23000000.svg?style=for-the-badge&logo=formik&logoColor=%23F7DF1E)
-    ![ShadcnUI](https://img.shields.io/badge/ShadcnUI-%23000000.svg?style=for-the-badge&logo=shadcnui&logoColor=%23F7DF1E)
-    ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E)
-    ![Go](https://img.shields.io/badge/Go-%23000000.svg?style=for-the-badge&logo=go&logoColor=%23F7DF1E)
-</div>
+- ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens)
+- ![Yup](https://img.shields.io/badge/Yup-%23777BB4.svg?style=for-the-badge&logo=yup)
+- ![Formik](https://img.shields.io/badge/Formik-%23000000.svg?style=for-the-badge&logo=formik)
+- ![Shader UI](https://img.shields.io/badge/Shader_UI-161618.svg?style=for-the-badge&logo=shader)
 
+## Languages
+
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) JavaScript
+- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) C++
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) Python
+- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) Go
 
 ## GitHub Stats
 
