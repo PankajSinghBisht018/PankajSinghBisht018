@@ -1,11 +1,10 @@
 # Welcome to My GitHub Profile!
 
-Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer specializing in the MERN stack. I love building dynamic and interactive web applications that provide seamless user experiences.
-
+Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer specializing in the MERN stack.
 ## About Me
 
-- 🎓 **Education**: [BCA , Guru Gobind Singh Indraprastha University] 
-- 🌐 **Website**: [https://pankajsinghbisht-portfolio.netlify.app]
+- 🎓 **Education**: **BCA , Guru Gobind Singh Indraprastha University** 
+- 🌐 **Website**: https://pankajsinghbisht-portfolio.netlify.app
 
 # 💻 Tech Stack:
 
@@ -44,13 +43,16 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 
 ## GitHub Stats
 
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![PankajSinghBisht018's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSinghBisht018&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/pankaj-singh-bisht1800/)
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-singh-bisht1800/)
+
+ ### ✍️ Random Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Thanks for visiting!
 
-Thank you for taking the time to visit my GitHub profile. I look forward to connecting with you!
-**
+**Thank you for taking the time to visit my GitHub profile.**
+[![](https://visitcount.itsvg.in/api?id=PankajSinghBisht018&icon=2&color=0)](https://visitcount.itsvg.in)
