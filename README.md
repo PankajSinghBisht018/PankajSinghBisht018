@@ -1,64 +1,82 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<!-- Add this to the top of your README.md file -->
+<style>
+  h1 {
+    color: #2c3e50;
+  }
+  h2 {
+    color: #34495e;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 10px;
+  }
+  a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+</style>
 
-###
+# Welcome to My GitHub Profile!
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
+Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer specializing in the MERN stack. I love building dynamic and interactive web applications that provide seamless user experiences.
 
-###
+## About Me
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+- 🎓 **Education**: [Your Degree], [Your University]
+- 💼 **Current Role**: [Your Job Title] at [Your Company]
+- 🌐 **Website**: [Your Personal Website]
+- 📧 **Email**: [Your Email Address]
 
-###
+## Skills
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PankajSinghBisht018&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=1&theme=dracula&hide_border=true" height="100" alt="languages graph"  />
-</div>
+### Frontend
 
-###
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks/Libraries**: React, Redux, Material-UI, Bootstrap
 
-<img src="https://raw.githubusercontent.com/PankajSinghBisht018/PankajSinghBisht018/output/snake.svg" alt="Snake animation" />
+### Backend
 
-###
+- **Languages**: JavaScript (Node.js)
+- **Frameworks**: Express.js
+- **Databases**: MongoDB, Mongoose
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PankajSinghBisht018/count.svg?"  />
-</div>
+### Tools & Platforms
 
-###
+- **Version Control**: Git, GitHub
+- **Deployment**: Heroku, Netlify, Vercel
+- **Others**: RESTful APIs, GraphQL, JWT, WebSockets
+
+## Projects
+
+### 1. [Project Name](Link to Project Repository)
+A brief description of the project, its purpose, and technologies used.
+
+### 2. [Project Name](Link to Project Repository)
+A brief description of the project, its purpose, and technologies used.
+
+### 3. [Project Name](Link to Project Repository)
+A brief description of the project, its purpose, and technologies used.
+
+_For more projects, please visit the [repositories section](https://github.com/your-username?tab=repositories)._
+
+## GitHub Stats
+
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## How to Reach Me
+
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-linkedin-username)
+- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-username)
+- Medium: [Your Medium Profile](https://medium.com/@your-medium-username)
+
+Feel free to reach out if you want to collaborate on any projects or just want to connect!
+
+## Thanks for visiting!
+
+Thank you for taking the time to visit my GitHub profile. I look forward to connecting with you!
