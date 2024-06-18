@@ -4,7 +4,7 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 ## About Me
 
 - 🎓 **Education**: **BCA , Guru Gobind Singh Indraprastha University** 
-- 🌐 **Website**: [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?style=for-the-badge&logo=portfolio&logoColor=white)](https://pankajsinghbisht-portfolio.netlify.app)
+- 🌐 **Website**:(https://pankajsinghbisht-portfolio.netlify.app)
   
 
 # 💻 Tech Stack:
