@@ -17,6 +17,12 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-%23323330.svg?style=for-the-badge&logo=thunder-client&logoColor=%BBDEAD)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-%23000000.svg?style=for-the-badge&logo=data-structures&logoColor=white)
 ![Formik](https://img.shields.io/badge/Formik-%23000000.svg?style=for-the-badge&logo=formik&logoColor=white)
@@ -35,7 +41,6 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
 
 ## GitHub Stats
 
