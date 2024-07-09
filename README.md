@@ -47,10 +47,6 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 ![PankajSinghBisht018's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSinghBisht018&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
-
-![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajSinghBisht018&show_icons=true&bg_color=00000000)
-
-
 ## How to Reach Me
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-singh-bisht1800/)
