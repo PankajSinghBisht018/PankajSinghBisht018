@@ -45,6 +45,8 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 ## GitHub Stats
 
 ![PankajSinghBisht018's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSinghBisht018&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=PankajSinghBisht018&show_icons=true&bg_color=00000000)
+
 
 ## How to Reach Me
 
