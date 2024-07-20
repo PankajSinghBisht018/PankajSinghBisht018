@@ -44,7 +44,8 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 
 ## GitHub Stats
 
-![PankajSinghBisht018's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PankajSinghBisht018&theme=chartreuse-dark&hide_border=true)
+![PankajSinghBisht018's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PankajSinghBisht018&theme=outrun&hide_border=true)
+![PankajSinghBisht018's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSinghBisht018&theme=outrun&show_icons=true&hide_border=true&layout=compact)
 
 
 ## How to Reach Me
