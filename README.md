@@ -17,31 +17,31 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 </p>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="49" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="49" alt="materialui logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="49" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="49" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="49" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vite" height="49" alt="vite logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="49" alt="vercel logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=redux" height="49" alt="redux logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="49" alt="netlify logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=go" height="49" alt="go logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=docker" height="49" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
 </div>
 
 ## GitHub Stats
