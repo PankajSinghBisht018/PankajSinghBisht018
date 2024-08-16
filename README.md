@@ -11,7 +11,7 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 
 
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/MONGODB.gif" alt="MongoDB" width="100" height="100"/>
   <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/EXPRESS.gif" alt="Express.js" width="100" height="100"/>
   <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/REACT.gif" alt="React.js" width="100" height="100"/>
