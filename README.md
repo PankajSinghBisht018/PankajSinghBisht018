@@ -9,6 +9,13 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 
 # 💻 Tech Stack:
 
+
+
+![MongoDB](https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/MONGODB.gif)
+![Express.js](https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/EXPRESSgif)
+![React.js](https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/REACT.gif)
+![Node.js](https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/NODEJS.gif)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
