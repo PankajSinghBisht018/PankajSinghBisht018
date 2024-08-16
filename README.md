@@ -11,10 +11,12 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 
 
 
-![MongoDB](https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/MONGODB.gif)
-![Express.js](https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/EXPRESSgif)
-![React.js](https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/REACT.gif)
-![Node.js](https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/NODEJS.gif)
+<p align="center">
+  <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/MONGODB.gif" alt="MongoDB" width="100" height="100"/>
+  <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/EXPRESS.gif" alt="Express.js" width="100" height="100"/>
+  <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/REACT.gif" alt="React.js" width="100" height="100"/>
+  <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/NODEJS.gif" alt="Node.js" width="100" height="100"/>
+</p>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
