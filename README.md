@@ -57,7 +57,7 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankaj-singh-bisht1800/)
 
-## Thanks for visiting!
+## Thanks for visiting 
 
 **Thank you for taking the time to visit my GitHub profile.**
 
