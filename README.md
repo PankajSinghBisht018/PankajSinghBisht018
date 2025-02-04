@@ -4,7 +4,7 @@ Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 ## About Me
 
 - 🎓 **Education**: **BCA , Guru Gobind Singh Indraprastha University**
--  🌐  **Website** : <a href="https://pankajsbisht18.vercel.app" target="_blank">Portfolio Website</a>
+-  🌐  **Website** : <a href="https://pankajsbisht18.vercel.app" target="_blank">Portfolio</a>
   
 
 
