@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer specializing in the MERN stack.
+Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
 ## About Me
 
 - 🎓 **Education**: **MCA , Guru Gobind Singh Indraprastha University**
