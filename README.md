@@ -1,60 +1,130 @@
-# Welcome to My GitHub Profile!
+<div align="center">
 
-Hi there! 👋 I'm **Pankaj Singh Bisht**, a passionate Full Stack Web Developer
-## About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Pankaj%20Singh%20Bisht&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=18"/>
 
-- 🎓 **Education**: **MCA , Guru Gobind Singh Indraprastha University**
-  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+scalable+web+apps+%F0%9F%8C%90;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Always+learning%2C+always+shipping+%E2%9A%A1)](https://git.io/typing-svg)
 
+<br/>
 
-# 💻 Tech Stack:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/PankajSinghBisht018)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PankajSinghBisht018)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
-<p align="left">
-  <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/MONGODB.gif" alt="MongoDB" width="100" height="100"/>
-  <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/EXPRESS.gif" alt="Express.js" width="100" height="100"/>
-  <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/REACT.gif" alt="React.js" width="100" height="100"/>
-  <img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/NODEJS.gif" alt="Node.js" width="100" height="100"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=PankajSinghBisht018&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="49" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="49" alt="materialui logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="49" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="49" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="49" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="49" alt="tailwindcss logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vite" height="49" alt="vite logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="49" alt="vercel logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=redux" height="49" alt="redux logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="49" alt="netlify logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=go" height="49" alt="go logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="49" alt="docker logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="49" alt="java logo"  />
 </div>
 
-## GitHub Stats
+---
 
-![PankajSinghBisht018's Streak](https://github-readme-streak-stats.herokuapp.com/?user=PankajSinghBisht018&theme=outrun&hide_border=true)
+## 🧑‍💻 About Me
 
+```javascript
+const pankaj = {
+  name: "Pankaj Singh Bisht",
+  role: "Full Stack Web Developer",
+  education: "MCA @ Guru Gobind Singh Indraprastha University",
+  stack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+  languages: ["JavaScript", "Go", "Java"],
+  tools: ["Docker", "Redux", "Vite", "Figma", "Tailwind CSS"],
+  currently: "Building cool stuff & shipping fast 🚀",
+  funFact: "I turn ☕ coffee into clean, scalable code",
+};
+```
 
-![PankajSinghBisht018's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSinghBisht018&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+---
 
+## 🚀 Tech Stack
 
+### ⚡ Core — MERN
 
-## Thanks for visiting 
+<div align="center">
 
-**Thank you for taking the time to visit my GitHub profile.**
+<img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/MONGODB.gif" alt="MongoDB" width="90" height="90"/>
+<img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/EXPRESS.gif" alt="Express.js" width="90" height="90"/>
+<img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/REACT.gif" alt="React.js" width="90" height="90"/>
+<img src="https://github.com/PankajSinghBisht018/PankajSinghBisht018/raw/main/assets/NODEJS.gif" alt="Node.js" width="90" height="90"/>
 
-[![](https://visitcount.itsvg.in/api?id=PankajSinghBisht018&icon=2&color=0)](https://visitcount.itsvg.in)  
+</div>
+
+### 🛠️ Full Toolbox
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PankajSinghBisht018&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSinghBisht018&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSinghBisht018&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=PankajSinghBisht018&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PankajSinghBisht018&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 💡 A Quote to Live By
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+**Thanks for stopping by! Drop a ⭐ if you like what you see.**
+
+</div>
