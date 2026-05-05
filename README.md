@@ -82,10 +82,7 @@ const pankaj = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PankajSinghBisht018&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PankajSinghBisht018&theme=tokyonight&hide_border=true" />
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajSinghBisht018&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/PankajSinghBisht018?cardType=level&theme=ocean-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </div>
 
